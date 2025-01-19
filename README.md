@@ -11,4 +11,6 @@ Settings can be changed under the settings tab. Currently, only settings affecti
 
 
 ## Something isn't working!
-If you have any issues with the website, make an [issue](https://github.com/Catalyst4222/UltraMap/issues) or DM the author (`catalyst4`) on discord.
+The current latest version of ArchipelagoULTRAKILL is 3.0.1, but the tracker is made for version 2.2.2. All changes between the two versions are currently 
+
+If you have any other issues with the website, make an [issue](https://github.com/Catalyst4222/UltraMap/issues) or DM the author (`catalyst4`) on discord.
